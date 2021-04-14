@@ -12,7 +12,9 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         Quran.Companion.surahList(object: SurahCallback() {
             override fun success(volumes: List<Surah>) {
-
+for(surah in volumes){
+    
+}
             }
 
             override fun failure(e: Throwable) {
