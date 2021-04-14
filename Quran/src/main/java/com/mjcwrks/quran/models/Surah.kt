@@ -1,4 +1,4 @@
-package com.sdk.quran.models
+package com.mjcwrks.quran.models
 
 class Surah {
     var number = 0

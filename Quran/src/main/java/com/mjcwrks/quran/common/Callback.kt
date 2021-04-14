@@ -1,4 +1,4 @@
-package com.sdk.quran.common
+package com.mjcwrks.quran.common
 
 abstract class Callback<T> {
     abstract fun success(volumes: List<T>)

@@ -1,10 +1,10 @@
-package com.sdk.quran.common
+package com.mjcwrks.quran.common
 
 import android.util.Log
-import com.sdk.quran.models.Surah
-import com.sdk.quran.network.AyahResponse
-import com.sdk.quran.network.BaseResponse
-import com.sdk.quran.network.RetrofitModule
+import com.mjcwrks.quran.models.Surah
+import com.mjcwrks.quran.network.AyahResponse
+import com.mjcwrks.quran.network.BaseResponse
+import com.mjcwrks.quran.network.RetrofitModule
 import retrofit2.Call
 import retrofit2.Callback
 import retrofit2.Response

@@ -1,4 +1,4 @@
-package com.sdk.quran.models
+package com.mjcwrks.quran.models
 
 class Edition {
     // Setter Methods 

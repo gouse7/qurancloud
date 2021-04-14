@@ -1,4 +1,4 @@
-package com.sdk.quran.network
+package com.mjcwrks.quran.network
 
 
 import com.google.gson.Gson

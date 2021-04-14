@@ -1,10 +1,10 @@
-package com.sdk.quran.network
+package com.mjcwrks.quran.network
 
 
-import com.sdk.quran.models.Ayah
+import com.mjcwrks.quran.models.Ayah
 import com.google.gson.annotations.SerializedName
-import com.sdk.quran.models.Edition
-import com.sdk.quran.models.Surah
+import com.mjcwrks.quran.models.Edition
+import com.mjcwrks.quran.models.Surah
 import retrofit2.Call
 import retrofit2.http.*
 
