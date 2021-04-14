@@ -1,0 +1,3 @@
+include ':Quran'
+include ':app'
+rootProject.name = "Quran SDK Project"
